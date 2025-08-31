@@ -110,6 +110,8 @@ Blue light: wellness supplement
 ****Goals:**** 
 The goal of the users is to stay on top of their medication schedule without being interrupted. The pillbox’s goal is to provide a clear and reliable signal using light, and to acknowledge the action once the pill is taken. The interaction ensures a gentle but effective reminder system that blends seamlessly into the student’s daily routine.
 
+![pillboxstoryboard](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c11d1761d811fa7108d3ddfce215d897bc1fa50a/Lab%201/pillboxstoryboard.jpg)
+
 ### Plan 3. Student ID Card Reminder
 
 ****Setting:****
