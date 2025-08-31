@@ -126,6 +126,8 @@ When students are rushing to leave for class and forget to pick up their ID card
 ****Goals:****
 The goals of each player is to avoid the inconvenience of being locked out or unable to access the building because of a forgotten ID card. The device itself is to provide timely reminders that fit into the natural flow of leaving and returning. 
 
+![id card storyboard](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/779a26c8e62bd2cfb29910f7f12d26aa23a5b0d5/Lab%201/ID%20card.png)
+
 ### Plan 4. Stress Ball
 
 ****Setting:****
@@ -139,6 +141,8 @@ The stress ball rests idle on the desk. When feeling stressed, the user picks it
 
 ****Goals:**** 
 The goal of the user is to find stress relief, stay calm and focused without breaking workflow too much. The stress ball encourages healthy stress release and helps relieve the user’s mood through light feedback. The surrounding people may gain an implicit understanding of the user’s stress level.
+
+![storyboardforpressureball](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/779a26c8e62bd2cfb29910f7f12d26aa23a5b0d5/Lab%201/pressure%20ball.png)
 
 Present your ideas to the other people in your breakout room (or in small groups). You can just get feedback from one another or you can work together on the other parts of the lab.
 
@@ -213,12 +217,7 @@ A paper lamp could be used as a practical light source. It creates an opportunit
 We’ve decided to pick the cloud form as the final design in consideration of its soft, approachable appearance and its ability to diffuse light evenly, making color changes both noticeable and pleasant to look at. Also, its compact form makes it flexible to place in different environments, such as room desk and office desk, while remaining safe and unobtrusive. 
 The material we would use for the cloud-form costume for the device is cotton stuffing, which creates a soft and fluffy texture that naturally diffuses the phone light inside.
 
-
-
-
-
-
-
+![materialcotton](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/779a26c8e62bd2cfb29910f7f12d26aa23a5b0d5/Lab%201/cotton%20materials.JPG)
 
 ## Part F. Record
 
