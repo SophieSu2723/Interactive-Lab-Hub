@@ -204,13 +204,21 @@ The cloud decorator is an attractive object on the desk even when idle. Its shap
 
 \*\***Include sketches of what your devices might look like here.**\*\*
 
+![sketches](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/77096ce8a1fd9d9ab17f78caa2f6545bc3839fe8/Lab%201/cloud.png)
+
 ****Sketch Idea 2: Light Strip around the Chair****
 
 A light strip around the sitting area could provide subtle, body-centered feedback. With the lighting integrated into the chair, the user can see the glow peripherally. Yet it might be hard for users to notice the light change during the work.
 
+\*\***Include sketches of what your devices might look like here.**\*\*
+
+![sketcheslightstrip](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/77096ce8a1fd9d9ab17f78caa2f6545bc3839fe8/Lab%201/papertube.png)
+
 ****Sketch Idea 3: Paper Desk Lamp****
 
 A paper lamp could be used as a practical light source. It creates an opportunity for the device to be both functional furniture and health-supporting technology.
+
+![sketchesforlamp](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/77096ce8a1fd9d9ab17f78caa2f6545bc3839fe8/Lab%201/lamp.png)
 
 ### Final Decision
 
