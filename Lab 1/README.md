@@ -174,6 +174,9 @@ We invented this tool for this lab!
 
 If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
 
+****first attampt****
+[https://youtube.com/shorts/vQvMvgtc-14?feature=share]
+
 \*\***Give us feedback on Tinkerbelle.**\*\*
 
 We find that Tinkerbelle is useful for experimenting with color changes on our phone screens. However the tool does not allow us to control the brightness or intensity of the light, which makes it difficult to show subtle differences between a soft reminder and a strong alert. In addition, the colors available are very single and flat, and there’s no option for gradients. 
@@ -231,15 +234,15 @@ The material we would use for the cloud-form costume for the device is cotton st
 
 \*\***Take a video of your prototyped interaction.**\*\*
 
+[Prototyed interaction](https://youtube.com/shorts/rMiUTPYgeGw?feature=share)
+
 \*\***Please indicate who you collaborated with on this Lab.**\*\*
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-
+I collaborated with my roommates Weicong Hong, thx for her help!!
 
 # Staging Interaction, Part 2 
 
 This describes the second week's work for this lab activity.
-
 
 ## Prep (to be done before Lab on Wednesday)
 
