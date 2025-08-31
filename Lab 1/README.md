@@ -87,7 +87,10 @@ Green = healthy sitting behavior
 
 Red = corrective alert (happens when leg shaking, leg crossing, slouching, sitting too long, etc.)
 
-Goals: The goal for the main player who sits on the interactive healthy chair is to maintain a good sitting posture and avoid unhealthy habits. The surrounding people could possibly support or monitor the main player’s behavior when noticing the light cue. 
+****Goals:**** 
+The goal for the main player who sits on the interactive healthy chair is to maintain a good sitting posture and avoid unhealthy habits. The surrounding people could possibly support or monitor the main player’s behavior when noticing the light cue. 
+
+![storyboard](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/127a76063bbce07677f5460659cc085bbb74329e/Lab%201/chairstoryboard.jpg)
 
 ### Plan 2. Medicine Box Reminder
 
