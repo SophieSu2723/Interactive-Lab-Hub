@@ -290,6 +290,8 @@ The student sits and studies with good posture. After a long time, the chair sen
 **Goal:**
 The goal is to remind the student to take breaks and avoid unhealthy long-term sitting.
 
+![sit for too long](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/994b12737fa66075931778f1852dda24217b64cb/Lab%201/sit%20for%20long%20time.png)
+
 ### Storyboard 2
 
 **Setting:** The interaction may happen in a classroom, library, or at home during study/work sessions.
@@ -299,6 +301,8 @@ The goal is to remind the student to take breaks and avoid unhealthy long-term s
 **Activity:** The student works at their desk while the robot companion sits nearby. As the student adopts different postures, the chair’s sensor detects changes and the robot responds.
 
 **Goals:** The goal for the user is to maintain good posture, reduce unhealthy sitting habits, and receive gentle but clear feedback. The robot aims to encourage healthy sitting by providing both visual and auditory cues, while making the feedback feel more personable and engaging. People nearby may observe the robot’s reactions and help reinforce posture correction.
+
+![add sound](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/994b12737fa66075931778f1852dda24217b64cb/Lab%201/with%20sound%20.jpg)
 
 ### Storyboard 3
  
@@ -315,6 +319,8 @@ Other people in the room who may notice the warning.
 The robot glows red to signal bad posture, making the student feel awkward. The student taps the robot once to silence the warning (blue glow) or taps twice to turn the glow off completely.
 
 **Goals:** Allow the student to manage the visibility of feedback in social situations, reduce embarrassment, and provide flexibility while still supporting posture awareness.
+
+![tap to close](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/994b12737fa66075931778f1852dda24217b64cb/Lab%201/double%20tap%20-%20turn%20off%20light.png)
 
 ## Part B-D. Acting, Prototyping, and Wizarding the device
 
