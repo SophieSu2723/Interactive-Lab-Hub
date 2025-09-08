@@ -294,15 +294,17 @@ The goal is to remind the student to take breaks and avoid unhealthy long-term s
 
 ### Storyboard 2
 
+**Ignoring warning:**
+
 **Setting:** The interaction may happen in a classroom, library, or at home during study/work sessions.
 
 **Players:** The primary player is the person sitting on the chair, receiving cues from the desktop robot. The secondary players could be classmates, roommates or colleagues nearby who may notice the robot’s glow and expressions.
 
-**Activity:** The student works at their desk while the robot companion sits nearby. As the student adopts different postures, the chair’s sensor detects changes and the robot responds.
+**Activity:** The user works at their desk while the robot companion sits nearby. As the user adopts unhealthy postures, the chair’s sensor detects changes and the robot responds. As the user ignores the robot’s red glow and sad face and remains in an unhealthy posture, the robot plays a gentle audio cue to draw the user's attention. Once the user corrects their posture and sits normally again, the robot’s face shifts to a smile and the glow turns blue.
 
 **Goals:** The goal for the user is to maintain good posture, reduce unhealthy sitting habits, and receive gentle but clear feedback. The robot aims to encourage healthy sitting by providing both visual and auditory cues, while making the feedback feel more personable and engaging. People nearby may observe the robot’s reactions and help reinforce posture correction.
 
-![add sound](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/994b12737fa66075931778f1852dda24217b64cb/Lab%201/with%20sound%20.jpg)
+![add sound](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/7c699e2ee997139a066f6e1acdc6b773bc6eb8bb/Lab%201/sound.png)
 
 ### Storyboard 3
  
@@ -324,7 +326,8 @@ The robot glows red to signal bad posture, making the student feel awkward. The 
 
 ## Part B-D. Acting, Prototyping, and Wizarding the device
 
-Since Tinkerbell worked well in Part 1a for controlling light color changes, we decided to continue using it. For the additional modalities of robot expressions, audio cues, and vibration, we developed different approaches to simulate them during wizarding:
+Since Tinkerbelle worked well in Part 1a for controlling light color changes, we decided to continue using it 
+[Tinkerbelle set-up video:](https://youtube.com/shorts/vQvMvgtc-14?feature=share). For the additional modalities of robot expressions, audio cues, and vibration, we developed different approaches to simulate them during wizarding:
 
 **Robot’s expression:**
 
@@ -334,9 +337,13 @@ We created a set of hand-drawn paper face cards that can be manually inserted an
 
 While Tinkerbell includes some built-in sounds, we found none that were gentle enough for a subtle, non-disruptive warning. Instead, we used a separate device to play soft chimes in sync with the actor adopting an unhealthy posture.
 
+View our audio set-up video [here](https://youtube.com/shorts/5mVurf53QhA?feature=share)
+
 **Vibration:**
 
 To simulate vibration feedback, we placed a phone in vibration mode on the chair. By making calls to the phone, we could trigger vibrations remotely and in real time as part of the staged interaction.
+
+View our [vibration set-up video](https://youtube.com/shorts/DQBPNYUqo4M?feature=share)
 
 This setup allowed us to effectively wizard all modalities, including light, expression, sound, and vibration, making the device respond naturally to the actor’s posture changes.
 
