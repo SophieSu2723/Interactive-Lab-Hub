@@ -342,10 +342,9 @@ This setup allowed us to effectively wizard all modalities, including light, exp
 
 ### Part E. Costume the device
 
-We used a foam roller as the outer shell. This material allows light to pass through while also being easy to shape into the form of a small chair-like robot. We also decided to wrap colorful yarn around the foam roller to add texture that makes the device look friendlier and less mechanical. Since the yarn is loosely wound, it does not block the light diffusion from inside the foam roller, allowing the glow and expression cards to remain visible. To convey the robot’s facial expressions, we would use hand-drawn semi-transparent paper cards slotted in front of the light.
+We used a foam roller as the outer shell. The foam was easy to shape into the form of a small chair-like robot. Also, such material does not block the light diffusion from the phone, allowing the glow to remain visible. To convey the robot’s facial expressions, we would use hand-drawn semi-transparent paper cards slotted in the foam.
 
-For the vibration element, we would attach the phone underneath the seat of the chair itself. This placement concealed the phone visually while still allowing the vibration feedback to be sensed clearly by the actor. This kept the vibration experience body-centered (linked directly to sitting posture), while the robot decoration remained a separate light/sound companion on the desk.
-
+For the vibration element, we would place the phone on the chair itself, underneath a thin felt blanket. The felt fabric concealed the phone visually while still allowing the vibration feedback to be sensed clearly by the actor. This helps keep the vibration experience body-centered (linked directly to sitting posture), while the robot remains a separate light/sound companion on the desk.
 
 
 
