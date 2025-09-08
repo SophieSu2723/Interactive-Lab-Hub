@@ -56,8 +56,6 @@ E) [Costume the device](#part-e-costume-the-device)
 
 F) [Record the interaction](#part-f-record)
 
-G) [Staging interaction part 2](https://github.com/SophieSu2723/Interactive-Lab-Hub/edit/Fall2025/Lab%201/README.md#staging-interaction-part-2)
-
 Labs are due on Mondays. Make sure this page is linked to on your main class hub page.
 
 ## Part A. Plan 
