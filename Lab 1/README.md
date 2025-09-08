@@ -344,7 +344,14 @@ This setup allowed us to effectively wizard all modalities, including light, exp
 
 We used a foam roller as the outer shell. The foam was easy to shape into the form of a small chair-like robot. Also, such material does not block the light diffusion from the phone, allowing the glow to remain visible. To convey the robot’s facial expressions, we would use hand-drawn semi-transparent paper cards slotted in the foam.
 
+![setup](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/325a35312ae3b03f6a661d48b9875e9244c3c71f/Lab%201/setup.jpeg)
+
 For the vibration element, we would place the phone on the chair itself, underneath a thin felt blanket. The felt fabric concealed the phone visually while still allowing the vibration feedback to be sensed clearly by the actor. This helps keep the vibration experience body-centered (linked directly to sitting posture), while the robot remains a separate light/sound companion on the desk.
 
+![vibration](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/325a35312ae3b03f6a661d48b9875e9244c3c71f/Lab%201/vibration%20setting.jpeg)
 
+### Part F. Record
+[Unhealthy posture scenario:](https://youtube.com/shorts/bkxQC-ossbo)
 
+[Long-time sitting scenario:](https://youtube.com/shorts/X-NicvvVHO4)
+*In this video, we also demonstrate how users interact with the robot to turn off the alert system and the device.
