@@ -290,7 +290,7 @@ The student sits and studies with good posture. After a long time, the chair sen
 **Goal:**
 The goal is to remind the student to take breaks and avoid unhealthy long-term sitting.
 
-![sit for too long](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/994b12737fa66075931778f1852dda24217b64cb/Lab%201/sit%20for%20long%20time.png)
+![sit for too long](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c9cfe6b4145e69d077d8c53e4c267ec04729e083/Lab%201/longtimesitting.png)
 
 ### Storyboard 2
 
