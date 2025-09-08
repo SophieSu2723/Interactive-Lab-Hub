@@ -272,7 +272,7 @@ Do last week’s assignment again, but this time:
 
 After gathering feedback, we decided to switch the costume from a cloud to a chair-like desk robot. This new form is more aligned with the concept of posture correction and provides a clearer mapping between the device’s signals and the user’s sitting behavior. We also improved the alert system by adding sound and vibration, giving users stronger and more intuitive signifiers. Another improvement is offering users the choice to tap the robot to shut down the interaction when they don’t need reminders. In that case, the robot remains as an emotional companion, providing presence and comfort rather than corrective feedback.
 
-### Storyboard 1
+### Storyboard 1 Long time sitting:
 
 **Setting:**
 The interaction takes place in a student’s dorm room or study space, where the student is working at a desk for an extended period of time.
@@ -292,9 +292,7 @@ The goal is to remind the student to take breaks and avoid unhealthy long-term s
 
 ![sit for too long](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c9cfe6b4145e69d077d8c53e4c267ec04729e083/Lab%201/longtimesitting.png)
 
-### Storyboard 2
-
-**Ignoring warning:**
+### Storyboard 2 Ignoring warning
 
 **Setting:** The interaction may happen in a classroom, library, or at home during study/work sessions.
 
@@ -313,8 +311,11 @@ We considered the awkwardness that might arise when the posture reminder activat
 **Settings:** Shared study space with multiple people present.
 
 **Players:**
+
 The student who receives the posture warning.
+
 The desk robot that provides light feedback.
+
 Other people in the room who may notice the warning.
 
 **Activity:**
@@ -332,6 +333,8 @@ Since Tinkerbelle worked well in Part 1a for controlling light color changes, we
 **Robot’s expression:**
 
 We created a set of hand-drawn paper face cards that can be manually inserted and swapped. With the light shining through, people can clearly see changes in the light color and the robot’s expressions.
+
+[expression card](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/009615afffc48ad84c38d1506c9f037da819dd96/Lab%201/expression_card.png)
 
 **Audio cues:**
 
