@@ -190,6 +190,7 @@ Pro Tip: Using tools like [code-server](https://coder.com/docs/code-server/lates
 
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
+![sketches and brainstorm]()
 
 
 # Prep for Part 2
