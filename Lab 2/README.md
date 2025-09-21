@@ -233,6 +233,7 @@ The system maintains a current_index variable (1-12) that determines which image
 The button toggles audio playback for the current hour, which triggers the visual state change between inactive (Paused Mode) and active (Play Mode) images.
 
 <img src="proj_docs/clock_test.jpg" alt="skech" width="600"/>
+[interaction](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/1781b0532fac582b3048607e2d1bd2c088566a15/Lab%202/proj_docs/user%20interaction.png)
 
 ### Display Updates
 - Requires importing the font: https://github.com/siruiii/Interactive-Lab-Hub/blob/f06c9da3bbf9ca44472ff6efc58b310894025726/Lab%202/proj_docs/Abel-Regular.ttf
