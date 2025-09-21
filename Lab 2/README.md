@@ -1,14 +1,11 @@
 # Interactive Prototyping: The Clock of Pi
-**NAMES OF COLLABORATORS HERE**
+**Weicong Hong Sirui Wang Jully Li**
 
 Does it feel like time is moving strangely during this semester?
 
 For our first Pi project, we will pay homage to the [timekeeping devices of old](https://en.wikipedia.org/wiki/History_of_timekeeping_devices) by making simple clocks.
 
 It is worth spending a little time thinking about how you mark time, and what would be useful in a clock of your own design.
-
-**Please indicate anyone you collaborated with on this Lab here.**
-Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 ## Prep
 
@@ -214,7 +211,7 @@ Please sketch/diagram your clock idea. (Try using a [Verplank digram](http://www
 **We strongly discourage and will reject the results of literal digital or analog clock display.**
 
 
-\*\*\***A copy of your code should be in your Lab 2 Github repo.**\*\*\*
+\*\*\***Here is our source code:**\*\*\*
 
 
 ## Assignment that was formerly Part F. 
