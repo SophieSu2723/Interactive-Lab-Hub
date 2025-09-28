@@ -241,15 +241,22 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 ### 20 Questions game
 A verbal guessing game with the device where the user thinks of a person, place, or thing, and the device has a limit of asking 20 yes-or-no questions to guess what it is.
 
+![20_questions game](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c0ebb92ff983f0a3ae7cc3ba265fdfeb99bb8f9f/Lab%203/storyboard/20_questions.png)
+
 ### Interview/presentation mock
 A voice practice coach that prompts questions, times responses, and gives quick feedback on pacing, content, and clarity, aiming to help users mock upcoming interview/presentation tasks.
+
+![intervew_mock](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c0ebb92ff983f0a3ae7cc3ba265fdfeb99bb8f9f/Lab%203/storyboard/interview_mock.png)
 
 ### Smart doorstep assistant
 Smart Doorstep Assistant is a two-way, multimodal communicator for home entrances. detects knocks, asks visitors their purpose, and notifies the resident. It converts visitors’ spoken/typed messages into natural-sounding speech, and lets residents with voice loss reply by typing, tapping preset phrases, or choosing pictograms that are spoken aloud at the door.
 
+![Smart Doorstep assistant](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c0ebb92ff983f0a3ae7cc3ba265fdfeb99bb8f9f/Lab%203/storyboard/smart_door_assistant.png)
+
 ### Sleep talk logger
 Sleep Talk Logger is an overnight companion that listens and records the brief speech events while you sleep, records them, and turns them into a clean, time-stamped journal you can review in the morning. 
 
+![Sleep talk logger](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/c0ebb92ff983f0a3ae7cc3ba265fdfeb99bb8f9f/Lab%203/storyboard/sleep_talk_logger.png)
 
 \*\***Please describe and document your process.**\*\*
 
@@ -397,6 +404,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
