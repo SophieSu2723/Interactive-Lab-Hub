@@ -80,7 +80,13 @@ Typically, a `.sh` file is a shell script which you can execute in a terminal. T
 You can also play audio files directly with `aplay filename`. Try typing `aplay lookdave.wav`.
 
 \*\***Write your own shell file to use your favorite of these TTS engines to have your Pi greet you by name.**\*\*
-(This shell file should be saved to your own repo for this lab.)
+
+Shell file: https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/66e04342a905b6aea53f6ecf3707befd281b58aa/Lab%203/speech-scripts/name.sh
+
+Add execute permission before run `./name.py` in speech-scripts folder
+```bash
+chmod +x name.py
+```
 
 ---
 Bonus:
@@ -146,6 +152,7 @@ and
 python faster_whisper_try.py
 ```
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
+
 
 ### 🤖 NEW: AI-Powered Conversations with Ollama
 
@@ -414,6 +421,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
