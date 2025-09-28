@@ -238,9 +238,72 @@ Storyboard and/or use a Verplank diagram to design a speech-enabled device. (Stu
 
 \*\***Post your storyboard and diagram here.**\*\*
 
-Write out what you imagine the dialogue to be. Use cards, post-its, or whatever method helps you develop alternatives or group responses. 
+### 20 Questions game
+A verbal guessing game with the device where the user thinks of a person, place, or thing, and the device has a limit of asking 20 yes-or-no questions to guess what it is.
+
+### Interview/presentation mock
+A voice practice coach that prompts questions, times responses, and gives quick feedback on pacing, content, and clarity, aiming to help users mock upcoming interview/presentation tasks.
+
+### Smart doorstep assistant
+Smart Doorstep Assistant is a two-way, multimodal communicator for home entrances. detects knocks, asks visitors their purpose, and notifies the resident. It converts visitors’ spoken/typed messages into natural-sounding speech, and lets residents with voice loss reply by typing, tapping preset phrases, or choosing pictograms that are spoken aloud at the door.
+
+### Sleep talk logger
+Sleep Talk Logger is an overnight companion that listens and records the brief speech events while you sleep, records them, and turns them into a clean, time-stamped journal you can review in the morning. 
+
 
 \*\***Please describe and document your process.**\*\*
+
+For the 20 Questions game bot, the bot sits in a corner and invites play when someone approaches. A webcam presence check (no images stored) detects a face for ~2 seconds, then prompts: “Want to play 20 Questions? Say ‘let’s play’ or wave.” If the visitor responds, it onboards and starts; if not or they decline, it quietly returns to idle and won’t re-prompt until after a short cooldown.
+
+**Planned Dialogue:** 
+
+Note: In reality, users’ responses may vary. The script is provided only as an example of how the conversation could unfold.
+
+<details>
+<summary> <b>Dialogue Script</b> </summary> 
+
+Device: Want to play 20 Questions? Say ‘let’s play’ or wave.
+
+User: Let's play.
+ 
+Device: Think of a person. Say “ready” when you’re set.
+ 
+User: Ready.
+ 
+Device: Great! I’ll ask up to 20 yes-or-no questions. First: Is this person real?
+ 
+User: Yes.
+ 
+Device: Are they currently alive?
+ 
+User: Yes.
+ 
+Device: Are they a musician?
+ 
+User: Yes.
+ 
+Device: Are they British?
+ 
+User: No.
+ 
+Device: Are they famous for avant-garde fashion?
+ 
+User: Yes.
+ 
+Device: Have they won an Oscar for Best Original Song?
+ 
+User: Yes.
+ 
+Device: Have they released jazz albums with Tony Bennett?
+ 
+User: Yes.
+ 
+Device: I guess… Lady Gaga.
+ 
+User: Correct.
+ 
+Device: Nailed it in 7 questions! Want a rematch?
+</details>
 
 ### Acting out the dialogue
 
@@ -248,10 +311,38 @@ Find a partner, and *without sharing the script with your partner* try out the d
 
 \*\***Describe if the dialogue seemed different than what you imagined when it was acted out, and how.**\*\*
 
+**How we act out the dialogue:**
+<p align="center">
+  <a href="https://youtu.be/93-dGnLfw1I" target="_blank">
+    <img src="https://img.youtube.com/vi/93-dGnLfw1I/hqdefault.jpg" alt="Acting Out the Dialogue" width="600"/>
+  </a>
+</p>
+
+**Feedback:**
+
+Back-to-back yes or no questions worked, but without a visual/progress cue, the user couldn’t tell how far along we were (How many questions the device had asked), this felt more noticeable when spoken. In Part B, we could think about how to add a quick mid-game recap after Q4–5 (“So far: real, alive, musician, not British…” or “So far, I had asked 4 questions…”) to ground the user.
+
 ### Wizarding with the Pi (optional)
 In the [demo directory](./demo), you will find an example Wizard of Oz project. In that project, you can see how audio and sensor data is streamed from the Pi to a wizard controller that runs in the browser.  You may use this demo code as a template. By running the `app.py` script, you can see how audio and sensor data (Adafruit MPU-6050 6-DoF Accel and Gyro Sensor) is streamed from the Pi to a wizard controller that runs in the browser `http://<YouPiIPAddress>:5000`. You can control what the system says from the controller as well!
 
 \*\***Describe if the dialogue seemed different than what you imagined, or when acted out, when it was wizarded, and how.**\*\*
+
+We used the following prompt to interact with the Ollama Voice Assistant in order to act out our script:
+
+**LLM system prompt:** 
+You are a Twenty Questions bot: the user silently thinks of a person, answers only “yes” or “no,” and you ask up to 20 concise, polite, speakable questions (one question at a time) that start broad and then narrow based on their answers to identify the person within the limit (you win if you guess correctly within 20; otherwise the user wins).
+
+**How we interact with Ollama:**
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=MWF14AGxWc4" target="_blank">
+    <img src="https://img.youtube.com/vi/MWF14AGxWc4/hqdefault.jpg" alt="Watch the demo" width="600">
+  </a>
+</p>
+
+**Feedback & Reflection:**
+
+- Ollama struggled with processing complex prompts, and its response time did not match our expectations. In practice, this could lead to user frustration. In the testing, it required us to continually revise and simplify our prompts.
+- When testing a sample game with Ollama, the time it took to guess the correct name often exceeded 20 questions.
 
 # Lab 3 Part 2
 
@@ -306,6 +397,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
