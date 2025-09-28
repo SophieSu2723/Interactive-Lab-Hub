@@ -1,5 +1,6 @@
 # Chatterboxes
-**NAMES OF COLLABORATORS HERE**
+**COLLABORATORS: Jully Li (hl2568), Weicong Hong (wh528), Feier Su (fs495), Sirui Wang (sw2449)**
+
 [![Watch the video](https://user-images.githubusercontent.com/1128669/135009222-111fe522-e6ba-46ad-b6dc-d1633d21129c.png)](https://www.youtube.com/embed/Q8FWzLMobx0?start=19)
 
 In this lab, we want you to design interaction with a speech-enabled device--something that listens and talks to you. This device can do anything *but* control lights (since we already did that in Lab 1).  First, we want you first to storyboard what you imagine the conversational interaction to be like. Then, you will use wizarding techniques to elicit examples of what people might say, ask, or respond.  We then want you to use the examples collected from at least two other people to inform the redesign of the device.
@@ -153,6 +154,25 @@ python faster_whisper_try.py
 ```
 \*\***Write your own shell file that verbally asks for a numerical based input (such as a phone number, zipcode, number of pets, etc) and records the answer the respondent provides.**\*\*
 
+Shell file: https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/aa647490a8201ef1798e2ab8d27d5b589eb868d8/Lab%203/speech-scripts/zipcode.sh
+
+Download the voice files before run `./zipcode.sh` in speech-scripts folder
+```bash
+# Create voices directory if it doesn't exist
+mkdir -p ~/.local/share/piper-tts/voices/
+
+# Download the voice files
+cd ~/.local/share/piper-tts/voices/
+
+# Download both the model (.onnx) and config (.json) files
+wget https://github.com/rhasspy/piper/releases/download/2023.11.14-2/en_US-lessac-medium.onnx
+wget https://github.com/rhasspy/piper/releases/download/2023.11.14-2/en_US-lessac-medium.onnx.json
+```
+
+Play the recorded zipcode audio file `zipcode.wav`
+```bash
+aplay zipcode.wav
+```
 
 ### 🤖 NEW: AI-Powered Conversations with Ollama
 
@@ -220,6 +240,13 @@ answer = ask_ai("How should I greet users?")
 **📖 Complete Setup Guide**: See `OLLAMA_SETUP.md` for detailed instructions, troubleshooting, and advanced usage!
 
 \*\***Try creating a simple voice interaction that combines speech recognition, Ollama processing, and text-to-speech output. Document what you built and how users responded to it.**\*\*
+
+Testing with the web app
+```bash
+export PYTHONIOENCODING=utf-8
+python3 ollama_web_app.py
+```
+![web-app-test](storyboard/web-app-test.png)
 
 ### Serving Pages
 
@@ -421,6 +448,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
