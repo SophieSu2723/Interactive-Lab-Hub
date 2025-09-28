@@ -340,6 +340,18 @@ We used the following prompt to interact with the Ollama Voice Assistant in orde
 You are a Twenty Questions bot: the user silently thinks of a person, answers only “yes” or “no,” and you ask up to 20 concise, polite, speakable questions (one question at a time) that start broad and then narrow based on their answers to identify the person within the limit (you win if you guess correctly within 20; otherwise the user wins).
 
 **How we interact with Ollama:**
+ 
+Source code: https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/f60a190fbbe2c7a8e6154d53bfbb73955c6a41fb/Lab%203/ollama/test.py
+
+We revised the `ollama_web_app.py` and tested the interaction by running `test.py` in ollama folder
+```bash
+cd ollama
+source ollama_venv/bin/activate
+python3 test.py
+```
+
+
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=MWF14AGxWc4" target="_blank">
     <img src="https://img.youtube.com/vi/MWF14AGxWc4/hqdefault.jpg" alt="Watch the demo" width="600">
@@ -404,6 +416,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
