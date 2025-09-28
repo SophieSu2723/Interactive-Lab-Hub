@@ -1,1 +1,1 @@
-echo "Hello Sirui Wang" | festival --tts
+echo "Hello Feier Su" | festival --tts
