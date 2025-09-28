@@ -341,7 +341,7 @@ You are a Twenty Questions bot: the user silently thinks of a person, answers on
 
 **How we interact with Ollama:**
  
-Source code: https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/f60a190fbbe2c7a8e6154d53bfbb73955c6a41fb/Lab%203/ollama/test.py
+Source code: https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/2a5be5c3216d4f30167474756b9f10e913d64513/Lab%203/ollama/test.py
 
 We revised the `ollama_web_app.py` and tested the interaction by running `test.py` in ollama folder
 ```bash
@@ -349,8 +349,6 @@ cd ollama
 source ollama_venv/bin/activate
 python3 test.py
 ```
-
-
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=MWF14AGxWc4" target="_blank">
@@ -416,6 +414,7 @@ Answer the following:
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
 \*\**your answer here*\*\*
+
 
 
 
