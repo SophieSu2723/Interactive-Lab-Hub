@@ -482,7 +482,7 @@ We asked two friends to try the 20Q chatbot in our lab setup: they approached th
 Overall, our system’s interaction flow between the user and the robot went well. Users could speak naturally through the microphone, and the robot was able to process the input, ask relevant questions, and display both the dialogue and process clearly on the screen. 
 However, there were several aspects that didn’t work smoothly. The waiting time between the robot’s questions was longer than expected due to LLM processing, and the AI-generated voice was less clear than anticipated. In some cases, the model refused to answer due to ethical or privacy constraints (shown on image below). It was also not possible to control the length or style of the LLM’s questions, which sometimes made interactions feel less consistent. Additionally, the system required the user to confirm twice at the end in order to complete the game, which introduced unnecessary friction.
 
-![image]()
+![image](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/1ba4c04a794799d973183d617ac136794d4d1a9c/Lab%203/idd%20lab3%202/issue.png)
 
 ### What worked well about the controller and what didn't?
 
@@ -524,6 +524,7 @@ Jully Li: video shooting and editing, storyboarding, UI design, physical enclosu
 Feier Su: Help with system’s physical prototyping, UI design, final report write-up.
 
 Weicong Hong: LLM system prompt design & iteration, UI design, final report write-up.
+
 
 
 
