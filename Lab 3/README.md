@@ -449,9 +449,8 @@ We asked two friends to try the 20Q chatbot in our lab setup: they approached th
 
 ### What worked well about the system and what didn't?
 
-Overall, our system’s interaction flow between the user and the robot went well. Users could speak naturally through the microphone, and the robot was able to process the input, ask relevant questions, and display both the dialogue and process clearly on the screen. 
-However, there were several aspects that didn’t work smoothly. The waiting time between the robot’s questions was longer than expected due to LLM processing, and the AI-generated voice was less clear than anticipated. In some cases, the model refused to answer due to ethical or privacy constraints (shown on image below). It was also not possible to control the length or style of the LLM’s questions, which sometimes made interactions feel less consistent. Additionally, the system required the user to confirm twice at the end in order to complete the game, which introduced unnecessary friction.
-
+The controller workflow worked well for wizarding: we could manually launch the bot by running the Python file and start a round when we see the participant ready. During sessions, the real-time “Qx/20” indicator and on-screen transcript on the Pi, plus the terminal conversation log (LLM output and detected user speech), made it easy to spot slow turns, catch mishears, and keep the round aligned. Those logs also provided clean data for later analysis and quick human fixes or restarts when needed.
+What didn’t work well was that free-form LLM answers occasionally drifted from the “exactly one question per turn” policy, requiring manual intervention. We also had to run python bot.py manually to begin each session, and when speech detection lagged we could only either wait or restart, which added friction to the flow.
 
 ### What worked well about the controller and what didn't?
 
@@ -474,6 +473,7 @@ Data log sample in the terminal:
 
 ## Final Video
 [VideoLink]()
+
 
 
 
