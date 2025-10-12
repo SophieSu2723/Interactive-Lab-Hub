@@ -35,7 +35,7 @@
 
 ## Lab Overview
 
-**Collaborators: Feier Su, Weicong Hong, Jully Li, Sirui Wang**
+**Collaborators: Jully Li (hl2568), Weicong Hong (wh528), Feier Su (fs495), Sirui Wang (sw2449)**
 
 ## Part 1 Lab Preparation
 
