@@ -78,46 +78,35 @@ The sensors we wanna use are: **Light/Proximity/Gesture sensor (APDS-9960)**
 **\*\*\*Draw 5 sketches of different ways you might use your sensor, and how the larger device needs to be shaped in order to make the sensor useful.\*\*\***
 
 #### Rock Paper Scissors
+![Rock Paper Scissors](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/rock%20paper%20scissors.png)
 
 - **Sensors/Tech:** Webcam + Teachable Machine (gesture classifier), optional Qwiic Button for “Ready”.
-  
-- **Interaction:** Player faces the cam -> presses “Ready” (or waves) -> 3-2-1 countdown on OLED/MiniTFT -> both “throw” a hand sign; model classifies user’s gesture, Pi randomly (or rule-based) picks a move. Best-of-3 option.
-  
+- **Interaction:** Player faces the cam -> presses “Ready” (or waves) -> 3-2-1 countdown on OLED/MiniTFT -> both “throw” a hand sign; model classifies user’s gesture, Pi randomly (or rule-based) picks a move. Best-of-3 option.  
 - **Output:** Big icon (✊ ✋ ✌️), win/lose/draw banner, score, playful beep/fanfare.
-
 - **Form/Enclosure:** Small “arcade counter” with a start button and tilted screen; vinyl icons on the faceplate for clarity.
-
 - **Questions to prototype:** Lighting robustness; latency from capture→classify→display; confusion between ✋ and ✌️; adding a fallback (button) if vision fails.
-
 - **Why interesting:** Real-time vision + game loop makes sensing legible and fun.
 
 #### Digital Plant
+![Digigtal Plant](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/digital%20plant.png)
 - **Sensors/Tech:** APDS-9960 proximity/light/gesture + optional distance sensor.
-
 - **Interaction:** When a hand approaches too fast/close, the “plant” gets shy: leaves (paper/servo fins) droop and the OLED shows a bashful face; if you approach slowly or hold your hand at a kind distance, it “warms up” and perks back. Gentle left/right gestures can “pet” it.
-
 - **Output:** Servo leaf droop/raise, OLED emotions, softly pulsing LEDs for “breathing.”
-
 - **Form/Enclosure:** Paper/felt leaves on a stem; sensor hidden in the pot rim; OLED as a tiny “face tag.”
-
 - **Questions to prototype:** Thresholds for “too close” vs. “just right”; mapping speed of approach to emotion; ambient-light compensation.
-
 - **Why interesting:** Turns abstract proximity into an expressive, relatable behavior.
 
 #### Memory Conductor
+![Memory Conductor](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/memory%20conductor.png)
 - **Sensors:** Capacitive + OLED + Servo
-
 - **Concept:** Each conductive object (copper tape, Twizzler, metal trinket) stores a “memory.” When you touch it, the OLED displays a word, phrase, or animation that fades as you release — like recalling fleeting memories.
-
 - **Interaction:** Touching = recalling → fading. Multiple pads = multiple memories.
-
 - **Output:** Gentle servo motion (like a heartbeat) as memory fades away.
-
 - **Display form:** A circular base with objects (rings, shells, candy) connected by hidden wires, glowing softly when activated.
-
 - **Notes:** Memory is not stored in objects, but flows through them — just as electricity flows only when we make contact.
 
 #### Gesture DJ
+![Gesture DJ](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/gesture%20DJ.png)
 
 - **Sensors:** Rotary encoder + Gesture + OLED
 - **Concept:** Control light patterns or sound samples with hand gestures and rotation.
@@ -125,7 +114,8 @@ The sensors we wanna use are: **Light/Proximity/Gesture sensor (APDS-9960)**
 - **Output:** OLED shows “mix levels” or dynamic shapes.
 - **Form:** Flat “DJ board” with one dial and invisible gesture zone.
 
-#### The light between su
+#### The light between us
+![The light Between us](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/the%20light%20between%20us.png)
 - **Sensors:** Distance + Gesture + OLED
 - **Concept:** Measures how close two people stand. The OLED shows poetic text based on proximity (“Far / Still warm / Close / Too bright”).
 - **Output:** Dynamic phrases or shifting brightness levels.
@@ -155,8 +145,15 @@ Out of five ideas, we picked the Gesture DJ design to prototype. We imagine to p
 ### Physical considerations for displaying information and housing parts
 
 **\*\*\*Sketch 5 designs for how you would physically position your display and any buttons or knobs needed to interact with it.\*\*\***
+![1](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/sketch%20design%201.png)
 
+![2](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/sketch%20design%202.png)
 
+![3](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/sketch%20design%203.png)
+
+![4](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/sketch%20design%204.png)
+
+![5](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/sketch%20design%205.png)
 
 **\*\*\*What are some things these sketches raise as questions? What do you need to physically prototype to understand how to anwer those questions?\*\*\***
 
@@ -196,7 +193,7 @@ Build a cardboard prototype of your design.
 
 
 **\*\*\*Document your rough prototype.\*\*\***
-
+![Paper Prototype](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/8ebb1a31b06836380eb3bbe1ce9dec93ab5ec38b/Lab%204/lab%204%201%20/rough%20prototype.png)
 
 # LAB PART 2
 
