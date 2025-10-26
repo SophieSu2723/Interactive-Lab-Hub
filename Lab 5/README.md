@@ -277,6 +277,11 @@ Source code: https://github.com/siruiii/Interactive-Lab-Hub/blob/4fc51543e8a3d96
 
 Video: 
 
+https://youtube.com/shorts/OTi3Ou8AaQY?feature=share
+
+https://youtube.com/shorts/SH_TeEvClkg?feature=share
+
+
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
