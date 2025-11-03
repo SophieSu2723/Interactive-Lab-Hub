@@ -338,6 +338,7 @@ Our second iteration focused on improving learnability and feedback by designing
 
 As shown below, we designed a minimalist UI that visualizes both hands’ real-time control values and displays a concise instruction panel at the center of the screen.
 
+![UI](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/de11931c2adfebf932d1ff420b9aa5b832f8b244/Lab%205/Screen.png)
 
 **Final Deliverable Video:** https://youtu.be/QUjoMvDYDVA 
 
