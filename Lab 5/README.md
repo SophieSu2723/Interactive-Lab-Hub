@@ -287,3 +287,57 @@ https://youtube.com/shorts/SH_TeEvClkg?feature=share
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **\*\*\*Include a short video demonstrating the finished result.\*\*\***
+
+#### User Feedback
+
+**User Testing on Original Design:**
+
+We tested our prototype from 1st week (only Volume Control) with three users:
+
+**User Feedback 1:**
+
+“It’s simple but interesting. I like that I can adjust the volume just by moving my hand without touching anything.”
+
+**User Feedback 2:**
+
+“It feels like the system could do more, maybe control other aspects of the music, like pitch or tone, to make it more expressive.”
+
+**Summary:** Overall, users found the prototype intuitive and engaging, appreciating the touchless volume adjustment as a unique interaction method. However, users expressed interest in expanding functionality beyond volume control
+
+**Video of user testing with one of the users:**  https://youtu.be/qgfThVijR9s 
+
+#### Iteration #1: Implemented Pitch Control and Low Bass Filter Control
+
+**User Feedback 1:**
+
+“Now it actually feels like a music controller! Being able to change both pitch and bass makes it feel more dynamic and fun.”
+
+**User Feedback 2:**
+
+“Sometimes it’s hard to control just one thing. I’m not sure if my hand is changing the pitch or the bass. Maybe add visual feedback to show which mode I’m in.”
+
+**User Feedback 3:**
+
+“It took me a few tries to figure out how to get consistent sounds. Some guidance on gesture range or sensitivity would help.”
+
+**Summary:** Based on the feedback, we expanded the system to support pitch modulation and low-pass filter control, allowing users to control both tone and texture of the sound in real time. The vertical position of the index finger was mapped to pitch frequency, while the proximity of the hand was used to adjust the low-pass filter, producing a muffled effect when the hand was close. This version created a fuller, more dynamic sound experience and encouraged users to explore hand gestures more playfully. During testing, participants described it as feeling “like sculpting music,” though a few still found it challenging to know exactly how far to move their hand for the intended effect, pointing to the need for better user guidance.
+
+**Iteration #1 Video:** https://youtu.be/le4BOyuG8to
+
+#### Final Deliverable / Iteration #2: Added User Interface with Instruction on how to control the device
+
+**User Feedback 1:**
+
+“The interface makes a huge difference. I immediately understood what each gesture does after reading the instructions.”
+
+**User Feedback 2:**
+
+“It’s much more polished now. I can clearly see how to control the sound, and the interaction feels intentional rather than experimental.”
+
+Our second iteration focused on improving learnability and feedback by designing a visual user interface that teaches users how to control the Gesture DJ 2.0 system in real time. Earlier testing revealed that users might struggle to understand which gesture mapped to which control and lacked awareness when tracking confidence dropped.
+
+As shown below, we designed a minimalist UI that visualizes both hands’ real-time control values and displays a concise instruction panel at the center of the screen.
+
+
+**Final Deliverable Video:** https://youtu.be/QUjoMvDYDVA 
+
