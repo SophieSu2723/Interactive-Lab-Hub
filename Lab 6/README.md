@@ -290,11 +290,17 @@ subscribe: beacons map states to colors (e.g., red=busy, green=free).
 
 ## Part B: Collaborative Pixel Grid
 ### 📸 Pi setup
+![pi1](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/pi-1.jpg)
+
+![pi2](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/pi-2.jpg)
+
+![pi3](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/pi-3.jpg)
+
+![pi4](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/pi-4.jpg)
 
 
-### 📸 Screenshot of grid 
-
-
+### 📸 Screenshot of grid
+![screenshot](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/screenshot.png)
 
 ## Part C: Make Your Own
 ### Tri-Station RGB (3 Pis, 3 sensors, MQTT)
@@ -313,7 +319,7 @@ Our distributed system visualizes collaborative color creation across multiple R
 #### 3. Build Documentation
 - refer to the GPIO pins: https://learn.sparkfun.com/tutorials/introduction-to-the-raspberry-pi-gpio-and-physical-computing/gpio-pins-overview
 - set up and connect the APDS-9960 to the pi
-
+![setup](https://github.com/SophieSu2723/Interactive-Lab-Hub/blob/cb1f41558f6c642056c49ad0c6611c946cc76057/Lab%206/setup.jpg)
 
 
 - test connectivity with the python script given in Lab 4: https://github.com/siruiii/Interactive-Lab-Hub/blob/e6312114cebcaae3c90d2ad0683775de933f11d8/Lab%204/proximity_test.py
