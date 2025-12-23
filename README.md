@@ -11,7 +11,7 @@ Please place links here to the README.md's for each of your labs here:
 
 [Lab 4. Ph-UI!!!](Lab%204/)
 
-Lab 5. Observant Systems
+[Lab 5. Observant Systems](https://github.com/SophieSu2723/Interactive-Lab-Hub/tree/6365b6528317d0abbeb4db3cf3d10bb593313e79/Lab%205)
 
 [Lab 6. Little Interactions Everywhere](Lab%206/)
 
